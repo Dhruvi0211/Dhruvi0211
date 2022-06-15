@@ -1,5 +1,5 @@
 # Hi there, I'm DHRUVI 👋 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ### Connect with me:
 <a href="https://www.linkedin.com/in/dhruvi-kundariya-8a02a4134/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
