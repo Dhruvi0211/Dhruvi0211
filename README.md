@@ -5,8 +5,7 @@
 </a>
 <br />
 
-### I'm a Designer Of My Own Success!! 
-
+### “Don’t Stop Untill You Achieve What You Dreamt Of...”
 
 - 🌱 I’m currently a intermediate level Web Developer
 - 👯 I’m looking to collaborate with other content creators
