@@ -3,9 +3,8 @@
 <a href="https://www.linkedin.com/in/dhruvi-kundariya-8a02a4134/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-
-
+<br />
+<br />
 
 ### I'm a Designer Of My Own Success!! 
 
