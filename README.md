@@ -1,4 +1,5 @@
 # Hi there, I'm DHRUVI 👋 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ### Connect with me:
 <a href="https://www.linkedin.com/in/dhruvi-kundariya-8a02a4134/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -13,7 +14,7 @@
 - 🌱 I’m currently a intermediate level Web Developer
 - 👯 I’m looking to collaborate with other content creators
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 
 ### Languages and Tools:
