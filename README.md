@@ -1,14 +1,4 @@
 # Hi there, I'm DHRUVI 👋 
-
-
-## I'm a Designer Of My Own Success!! 
-
-
-- 🌱 I’m currently a intermediate level Web Developer
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: To improve my knowledge into various domains
-<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://laxanarana1513.github.io/my-portfolio/#gh-light-mode-only)
@@ -28,6 +18,17 @@
 &nbsp;&nbsp;
 [![website](./img/github-light.svg)](https://github.com/laxanarana1513#gh-light-mode-only)
 [![website](./img/github-dark.svg)](https://github.com/laxanarana1513#gh-dark-mode-only)
+
+
+## I'm a Designer Of My Own Success!! 
+
+
+- 🌱 I’m currently a intermediate level Web Developer
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: To improve my knowledge into various domains
+<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
+
+
 
 ### Languages and Tools:
 
@@ -68,7 +69,7 @@
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Laxana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laxanarana1513&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Dhruvi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruvi0211&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 <!-- </details> -->
 
