@@ -12,9 +12,8 @@
 
 - 🌱 I’m currently a intermediate level Web Developer
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: To improve my knowledge into various domains
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 ### Languages and Tools:
