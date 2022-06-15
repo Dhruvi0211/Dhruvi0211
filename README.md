@@ -1,23 +1,8 @@
 # Hi there, I'm DHRUVI 👋 
 ### Connect with me:
-
-[![website](./img/globe-light.svg)](https://laxanarana1513.github.io/my-portfolio/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://laxanarana1513.github.io/my-portfolio/#gh-dark-mode-only)
-&nbsp;&nbsp;
-<!-- [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only) -->
-
-<!-- [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/laxana-rana-a6b37a193/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/laxana-rana-a6b37a193/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/laxanarana15#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/laxanarana15#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/github-light.svg)](https://github.com/laxanarana1513#gh-light-mode-only)
-[![website](./img/github-dark.svg)](https://github.com/laxanarana1513#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/dhruvi-kundariya-8a02a4134/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 ## I'm a Designer Of My Own Success!! 
